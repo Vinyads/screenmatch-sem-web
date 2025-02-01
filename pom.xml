@@ -5,6 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
+<<<<<<< HEAD
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
@@ -13,6 +14,16 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>screenmatch</name>
 	<description>Primeiro projeto spring sem web</description>
+=======
+		<version>3.4.0</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>br.com.alura</groupId>
+	<artifactId>TabelaFipe</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>TabelaFipe</name>
+	<description>Demo project for Spring Boot</description>
+>>>>>>> 0e52b9a (projeto final)
 	<url/>
 	<licenses>
 		<license/>
@@ -46,7 +57,10 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>2.18.1</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e52b9a (projeto final)
 	</dependencies>
 
 	<build>
